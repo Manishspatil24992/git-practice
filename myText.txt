@@ -1,1 +1,6 @@
 my name is manish patil
+i like java programming
+my name is yogita patil
+i like python programming
+my name is nikhil
+i like C# programming
